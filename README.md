@@ -1,7 +1,7 @@
 # Project Name
 
 ## Introduction
-This is a *project _trying_ to learn* how to  **_github_**  and ***readme*** files
+This is a **project _trying_ to learn** how to  **github**  and ***readme*** files
 
 ~~Not trying~~
 
