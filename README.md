@@ -15,4 +15,4 @@ This is a **project _trying_ to learn** how to  **github**  and ***readme*** fil
 ## Change Log
 
 ### Version 1.0.0
-  -Change documentation inside the rdme file just for testing purposes
+  - Change documentation inside the rdme file just for testing purposes
